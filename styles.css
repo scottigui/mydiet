@@ -1,0 +1,45 @@
+.content-main {
+    font-family: Arial, sans-serif;
+    
+    color: white;
+    text-align: center;
+    
+}
+.content-header {
+    text-align: center;
+    padding: 25px;
+    color: white;
+    
+    font-size: 90px;
+}
+.content-table {
+    margin: 0 auto; 
+    border-collapse: collapse;
+    width: 100%; 
+    font-size: 30px;
+}
+
+.content-table th, .content-table td {
+    border: 1px solid white;
+    padding: 10px; 
+    font-size: 30px;
+
+}
+.content-body {
+    background-color: gray
+}
+
+.content-p {
+    font-size: 20px;
+    text-align: center;
+}
+.content-frase {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.content-img {
+    width: 200px;
+    margin-top: 10px; 
+}
