@@ -1,37 +1,37 @@
 .content-main {
     font-family: Arial, sans-serif;
     
-    color: white;
+    color: black;
     text-align: center;
     
 }
 .content-header {
     text-align: center;
     padding: 25px;
-    color: white;
+    color: black;
     
-    font-size: 90px;
+    font-size: 30px;
     font-family: Arial, sans-serif;
 }
 .content-table {
     margin: 0 auto; 
     border-collapse: collapse;
     width: 100%; 
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .content-table th, .content-table td {
-    border: 1px solid white;
+    border: 1px solid black;
     padding: 10px; 
-    font-size: 30px;
+    font-size: 15px;
 
 }
 .content-body {
-    background-color: gray
+    background-color: white
 }
 
 .content-p {
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
 }
 .content-frase {
@@ -43,4 +43,52 @@
 .content-img {
     width: 200px;
     margin-top: 10px; 
+}
+.content-headera {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+}
+.content-headerb {
+    text-align: center;
+    padding: 25px;
+    color: black;
+    
+    font-size: 30px;
+    font-family: Arial, sans-serif;}
+
+.content-headerc {
+    text-align: center;
+    padding: 25px;
+    color: black;
+    
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
+
+.content-li {
+    font-size: 15px;
+}
+
+.content-headerd {
+    text-align: center;
+    padding: 25px;
+    color: black;
+    
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
+.content-p1 {
+    padding:20px;
+    font-size:20px;
+}
+.content-p2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
 }
